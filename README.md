@@ -2,7 +2,7 @@
 
 First clone the repo on local using ssh or download the zip file.
 
-After cloning/extracting install al dependencies using below command
+After cloning/extracting install all dependencies using below command
 
 ### `npm install`
 
@@ -17,4 +17,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 # local file for endpoint 
-I am using local db.json as my api endpoint. Anyone can update the data over there and run test the app.
+I am using local db.json as my api endpoint. Anyone can update the data over there and run the app.
